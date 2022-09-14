@@ -1,2 +1,2 @@
 # Bishop-Resource-Monitor
-Personal tool for monitoring system resources
+Tool for monitoring system resources
